@@ -22,4 +22,5 @@ pip install -r requirements.txt
 输出文件位于output文件夹
 
 ## 参考
-本项目基于https://github.com/huixiaheyu/fanqie_novel_spider，功能从单一章节变为了整本书
+本项目基于https://github.com/huixiaheyu/fanqie_novel_spider 
+功能从单一章节变为了整本书
