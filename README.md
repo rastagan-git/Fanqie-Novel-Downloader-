@@ -19,7 +19,6 @@ pip install -r requirements.txt
 ## 使用教程
 双击start.bat
 输入书籍ID
-输出文件位于output文件夹
 
 ## 参考
 本项目基于https://github.com/huixiaheyu/fanqie_novel_spider 
