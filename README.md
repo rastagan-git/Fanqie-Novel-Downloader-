@@ -23,3 +23,8 @@ pip install -r requirements.txt
 ## 参考
 本项目基于https://github.com/huixiaheyu/fanqie_novel_spider 
 功能从单一章节变为了整本书
+
+## 注意事项
+1.本项目仅用于学习交流，禁止用于商业用途。
+2.请遵守法律法规，不要爬取违法资源。
+3.请勿频繁爬取，以免对服务器造成压力。
