@@ -3,3 +3,4 @@ lxml
 requests
 ddddocr
 selenium
+webdriver_manager
